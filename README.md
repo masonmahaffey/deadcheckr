@@ -2,7 +2,7 @@
 
 Check if a GOT character got got!
 
-## Usage
+## See it live!
 
 Go to: https://deadcheckr.web.app/
 
