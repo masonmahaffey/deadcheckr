@@ -2,6 +2,10 @@
 
 Check if a GOT character got got!
 
+## Usage
+
+Go to: https://deadcheckr.web.app/
+
 ## How to set it up
 
 Run: `git clone`
