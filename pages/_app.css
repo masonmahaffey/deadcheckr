@@ -1,0 +1,45 @@
+#__next > div > div > div > div > div > span {
+  color: black !important;
+} 
+
+#g-signup-btn > div, #g-login-btn > div {
+  min-width: 200px;
+}
+
+/* .main-logo */
+
+@keyframes growAndShrinkAnimation {
+  0% {
+    width: 29px;
+  }
+
+  50% {
+    width: 30px;
+  }
+
+  100% {
+    width: 29px;
+  }
+}
+
+@keyframes growAndShrinkTitleAnimation {
+  0% {
+    font-size: 19px;
+  }
+
+  50% {
+    font-size: 20px;
+  }
+
+  100% {
+    font-size: 19px;
+  }
+}
+
+.main-logo {
+  animation: growAndShrinkAnimation 1s infinite;
+}
+
+.main-logo-text {
+  animation: growAndShrinkTitleAnimation 1s infinite;
+}
